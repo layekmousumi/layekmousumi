@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mousumiakhuli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mousumiakhuli/mousumiakhuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mousumi ✌️
+- 👀 I’m interested in <404> 😆
+- 🌱 I’m currently learning Front-End Development
+- 💞️ I’m looking to collaborate on Anything
+- 📫 How to reach me drop a mail
